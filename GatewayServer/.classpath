@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/RMIDevicesInterfaces"/>
+	<classpathentry kind="src" path="/RMIGatewayInterfaces"/>
+	<classpathentry kind="src" path="/RMISmartCtrlInterfaces"/>
+	<classpathentry kind="src" path="/UserOperationInterface"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RMIBackendDataBaseInterfaces"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opencsv"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
